@@ -9,6 +9,14 @@
 			"path": "..\\bootstrap"
 		},
 		{
+			"name": "dsc-configuration-core",
+			"path": "..\\dsc-configuration-core"
+		},
+		{
+			"name": "dsc-tools-core",
+			"path": "..\\dsc-tools-core"
+		},
+		{
 			"name": "holotable",
 			"path": "..\\holotable"
 		},
@@ -33,6 +41,7 @@
 			"path": "."
 		},
 		{
+			"name": "windows-terminal",
 			"path": "..\\windows-terminal"
 		}
 	],
